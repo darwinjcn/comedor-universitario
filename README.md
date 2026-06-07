@@ -1,12 +1,12 @@
 # 🍽️ Comedor Universitario — Sistema de Gestión Integral
 
-&lt;p align="center"&gt;
-&lt;img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /&gt;
-&lt;/p&gt;
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ## 📋 Resumen
 
@@ -76,7 +76,7 @@ Sistema de gestión integral para comedores universitarios. Aplicación full-sta
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/comedor-universitario.git
+git clone https://github.com/darwinjcn/comedor-universitario.git
 cd comedor-universitario
 ```
 
